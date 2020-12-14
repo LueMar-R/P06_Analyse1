@@ -11,3 +11,4 @@ Déploiement de l’environnement, Manipulation, Traitement des données, Visual
 
 ## Résultats graphiques :
 
+![img1](https://github.com/LueMar-R/P06_Analyse1/blob/main/images/Figure_1.png)
